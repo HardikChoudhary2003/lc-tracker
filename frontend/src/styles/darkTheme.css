@@ -1,0 +1,17 @@
+/* Dark theme overrides for react-loading-skeleton - REMOVED as prop-based coloring is used now */
+/*
+.dark {
+  --skeleton-base-color: #374151;
+  --skeleton-highlight-color: #4b5563;
+}
+*/
+
+/* Dark theme overrides for custom skeletons */
+.dark .animate-pulse {
+  background-color: #374151 !important;
+}
+
+/* Smoother dark mode transitions specifically for skeletons */
+.animate-pulse {
+  transition: background-color 200ms ease-in-out;
+}
