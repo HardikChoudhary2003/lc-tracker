@@ -240,6 +240,3 @@ Found a bug? Have suggestions? Feel free to open an issue or submit a pull reque
 
 ---
 
-## 📜 License
-
-MIT
